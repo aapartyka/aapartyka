@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aapartyka
 - 👀 I’m interested in fullstack development, but also in general programming.
-- 🌱 I’m currently learning node.js.
-- 💞️ I’m looking to collaborate on frontend projects or backend applications with node.js or spring boot. 
+- 🌱 I’m currently learning react.js.
 - 📫 Leave a message at arno.partyka@gmx.de
 
 <!---
